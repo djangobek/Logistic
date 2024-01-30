@@ -103,6 +103,7 @@ class Blog(TranslatableModel):
     #     img.save(self.image.path)
         
     #     super().save(*args, **kwargs)
+    #aaskdugvasl
 
     def __str__(self):
         return self.title
